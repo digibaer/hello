@@ -1,0 +1,14 @@
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\Bin\Debug\Background.png
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\Bin\Debug\io.cordova.Hello.dll
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\Bin\Debug\io.cordova.Hello.pdb
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\obj\Debug\io.cordova.Hello.g.resources
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\obj\Debug\io.cordova.Hello.dll
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\obj\Debug\io.cordova.Hello.pdb
+C:\Users\j.hou\Documents\Visual Studio 2013\Projects\Cordova\Hello\Hello\bld\Debug\platforms\wp8\obj\Debug\XapCacheFile.xml
